@@ -8,7 +8,7 @@
     Our experimental evaluations on CIFAR-10, EMNIST, and Fashion-MNIST datasets—across various attack ratios and degrees of data heterogeneity—demonstrate that RKD consistently outperforms baseline methods. 
 </p>
 <p>
-    This work has been submitted to SaTML2025.
+    This work has been accepted to SaTML2025..
 </p>
 
 <h2>Getting Started</h2>
